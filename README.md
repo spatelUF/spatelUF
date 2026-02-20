@@ -28,12 +28,20 @@ Flutter frontends to scalable backends and AI-powered pipelines.
 </div>
 ---
 
-### 🌟 Highlights
+## 👩‍💻 About Me
 
-- ✍️ I write about engineering & Flutter: [Blog](https://yashashm.medium.com/)
-- 🎤 I give talks & workshops: [Talks](https://github.com/yashas-hm/talks)
-- 🧩 I contribute to open source: [Contributions](./contributions.md)
-- 🚀 I’ve shipped systems used by **10K+ users** with **99.8% uptime**
+I’m a robotics-focused software engineer working at the intersection of  
+autonomous systems, AI-driven perception, and scalable software design.
+
+My work spans:
+
+🤖 ROS2-based navigation and simulation  
+⚙️ Control systems and optimization-driven design  
+👁️ Computer vision & ML integration for perception pipelines  
+💻 Backend engineering and distributed system architecture  
+
+I enjoy building systems end-to-end — from sensing and decision-making  
+to deployment and reliability.
   
 ---
 
