@@ -3,7 +3,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&customColorList=12,20,24&text=Shivali%20Patel&fontSize=55&fontColor=00E0FF&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=32&pause=2000&color=00E0FF&center=true&vCenter=true&width=700&height=90&repeat=false&lines=Hey%2C+I+am+Shivali" />
 </p>
 **Elecrtrical and Computer Engineer · Robotics · AI Systems · Full Stack**
 
@@ -13,7 +13,6 @@ Flutter frontends to scalable backends and AI-powered pipelines.
 **10K+ users · 99.8% uptime · 40% latency reduction · 40% crash reduction**
 
 </div>
-
 ---
 
 ### 🌟 Highlights
