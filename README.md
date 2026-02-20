@@ -16,6 +16,7 @@
  ██╔═══╝ ██╔══██║   ██║   ██╔══╝  ██║     
  ██║     ██║  ██║   ██║   ███████╗███████╗
  ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝
+</pre>
 
 **Elecrtrical and Computer Engineer · Robotics · AI Systems · Full Stack**
 
