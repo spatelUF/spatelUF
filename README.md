@@ -18,15 +18,6 @@
  ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝
 </pre>
 
-**Elecrtrical and Computer Engineer · Robotics · AI Systems · Full Stack**
-
-Building **production-grade software systems end-to-end**, from polished<br>
-Flutter frontends to scalable backends and AI-powered pipelines.
-
-**10K+ users · 99.8% uptime · 40% latency reduction · 40% crash reduction**
-
-</div>
----
 
 ## 👩‍💻 About Me
 
@@ -45,14 +36,17 @@ to deployment and reliability.
   
 ---
 
-### 🔍 What I work on
+### 👀 Things I know
+
+---
 
 ### 🧩 Core Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
@@ -100,40 +94,9 @@ to deployment and reliability.
 ![Gazebo](https://img.shields.io/badge/Gazebo-8B0000?style=for-the-badge)
 ![RViz2](https://img.shields.io/badge/RViz2-4B0082?style=for-the-badge)
 ![URDF](https://img.shields.io/badge/URDF-555555?style=for-the-badge)
----
-
-### 👀 Things I know
-
----
-
-**Front-End**: `Flutter` `React.js` `HTML` `CSS`
-
-**Back-End**: `FastAPI` `Node.js` `Express.js` `GraphQL`
-
-**Database**: `Firebase` `MongoDB` `MySQL` `PostgreSQL` `Supabase`
-
-**DevOps**: `Docker` `GitHub Actions` `Jenkins` `Ansible` `Kubernetes`
-
-**Version Control**: `Git` `Gitlab` 
-
-**Cloud**: `AWS` `Google Cloud`
-
-**Languages**: `Dart` `Python` `TypeScript` `JavaScript` `Java` `Bash` `C++` `Rust` `Go`
-
-**Other**: `Swagger` `Postman` `Prometheus` `Jira` `Slack` `Trello`
-
-**ML/AI**: `OpenCV` `TensorFlow` `LLM` `HuggingFace` `LangChain`
-
-**Internet Of Things** `RaspberryPi` `Arduino` `ESP32`
-
----
-
-### 🌱 Current Focus
-
-- Designing **AI-native application architectures**
-- Improving **LLM inference performance & retrieval pipelines**
-- Building systems that are **boring to deploy and exciting to use**
-- Research on **VR Haptics**
+![LIDAR](https://img.shields.io/badge/LIDAR-2F4F4F?style=for-the-badge)
+![MoveIt](https://img.shields.io/badge/MoveIt-00599C?style=for-the-badge)
+![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ---
 
@@ -147,8 +110,9 @@ to deployment and reliability.
 
 ### 🎤 Outside of code
 
-I love to dance and I am a trained classical dancer🎶
-I spend my time painting and sketching 
-And I love to spend time in the nature reading   
+🎶 Trained classical dancer — discipline, rhythm, and precision shape both my art and my engineering  
 
+🎨 I enjoy painting and sketching — exploring structure through creativity  
+
+🌿 I spend time in nature reading — finding clarity in quiet spaces
 
