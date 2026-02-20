@@ -16,23 +16,7 @@
  ██╔═══╝ ██╔══██║   ██║   ██╔══╝  ██║     
  ██║     ██║  ██║   ██║   ███████╗███████╗
  ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝
-</pre>
 
-  <text x="50%" y="60%" 
-        text-anchor="middle" 
-        font-family="Orbitron, monospace" 
-        font-size="90" 
-        fill="#EAEAEA"
-        filter="url(#shadow)">
-    SHIVALI
-  </text>
-</svg>
-</p>
->
-
-<p align="center">
-<b>SHIVALI PATEL</b>
-</p>
 **Elecrtrical and Computer Engineer · Robotics · AI Systems · Full Stack**
 
 Building **production-grade software systems end-to-end**, from polished<br>
