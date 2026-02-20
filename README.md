@@ -3,7 +3,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&height=100&lines=SHIVALI+PATEL;Robotics+%7C+AI+%7C+Autonomous+Systems" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&customColorList=12,20,24&text=Shivali%20Patel&fontSize=55&fontColor=00E0FF&animation=fadeIn" />
 </p>
 **Elecrtrical and Computer Engineer · Robotics · AI Systems · Full Stack**
 
