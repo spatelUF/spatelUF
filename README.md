@@ -2,8 +2,17 @@
 
 <div align="center">
 
+<pre>
+███████╗██╗  ██╗██╗██╗   ██╗ █████╗ ██╗     ██╗
+██╔════╝██║  ██║██║██║   ██║██╔══██╗██║     ██║
+███████╗███████║██║██║   ██║███████║██║     ██║
+╚════██║██╔══██║██║██║   ██║██╔══██║██║     ██║
+███████║██║  ██║██║╚██████╔╝██║  ██║███████╗██║
+╚══════╝╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝
+</pre>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=32&pause=2000&color=00E0FF&center=true&vCenter=true&width=700&height=90&repeat=false&lines=Hey%2C+I+am+Shivali" />
+<b>SHIVALI PATEL</b>
 </p>
 **Elecrtrical and Computer Engineer · Robotics · AI Systems · Full Stack**
 
